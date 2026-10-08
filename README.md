@@ -13,27 +13,6 @@ I'm a passionate developer focused on building **modern, scalable, and real-worl
 - 🧠 Interested in **Backend Engineering, Scalable Systems & Clean Architecture**
 - 💡 Always learning, building, and improving
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend**  
-React.js · Next.js · JavaScript · TypeScript · HTML · CSS · Tailwind CSS
-
-**Backend**  
-Node.js · Express.js · REST APIs
-
-**Database & Cloud**  
-MongoDB · PostgreSQL · Firestore · Firebase
-
-**Tools**  
-Git · GitHub · Docker · Postman · VS Code
-
-**Exploring**  
-AI · Blockchain · System Design
-
----
-
 ## 🚀 What I Build
 
 🛒 **E-Commerce Applications**  
@@ -42,17 +21,6 @@ AI · Blockchain · System Design
 🔐 **Authentication & Authorization Systems**  
 🌐 **REST APIs & Backend Services**  
 ⚡ **Real-Time & Cloud-Based Applications**
-
----
-
-## 📈 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
