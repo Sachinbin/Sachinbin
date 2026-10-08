@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sachin
+# Hi 👋, I'm Sachin Bind
 
 ### 💻 Full-Stack Developer
 
